@@ -12,3 +12,6 @@ A curious question, what makes the network think that image label is a dog or a 
 
 For more information, please go through the paper: https://arxiv.org/pdf/1610.02391v1.pdf
 The paper authors' torch implementation: https://github.com/ramprs/grad-cam
+
+
+Method for usage will be updated soon. :)
