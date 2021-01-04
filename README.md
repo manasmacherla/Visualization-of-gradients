@@ -11,6 +11,8 @@ A curious question, what makes the network think that image label is a dog or a 
 ![Img](https://github.com/manasmacherla/Visualization-of-gradients/blob/master/cat_dog.png)     ![Dog](https://github.com/manasmacherla/Visualization-of-gradients/blob/master/gradcam_dog.png)   ![Cat](https://github.com/manasmacherla/Visualization-of-gradients/blob/master/gradcam_tigercat.png)   
 
 For more information, please go through the paper: https://arxiv.org/pdf/1610.02391v1.pdf
+
+
 The paper authors' torch implementation: https://github.com/ramprs/grad-cam
 
 
