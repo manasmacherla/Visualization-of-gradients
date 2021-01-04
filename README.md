@@ -1,4 +1,5 @@
 # Backprop to image for saliency map visualization
 
-We visualize saliency map from a pretrained VGG19 model of an image using the simple gradient method. 
+We visualize saliency map from a pretrained VGG19 model of two images using the simple gradient method. 
 
+![Dog](https://github.com/manasmacherla/Visualization-of-gradients/blob/master/input.jpg) ![Saliency map](https://github.com/manasmacherla/Visualization-of-gradients/blob/master/input_salmap.JPG) 
